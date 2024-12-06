@@ -42,8 +42,8 @@ This setup includes the following services:
 
 1. Clone the repository (if applicable):
    ```
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/sistemica/api-gateway-playground.git
+   cd api-gateway-playground
    ```
 
 2. Start the services:
@@ -119,12 +119,12 @@ This setup includes the following services:
 ### Microservices
 
 - Claims Service: 
-  - URL: http://localhost:8081
-  - Swagger UI: http://localhost:8081/swagger-ui.html
+  - URL: http://localhost:9081
+  - Swagger UI: http://localhost:9081/swagger-ui.html
 
 - Contract Service: 
-  - URL: http://localhost:8082
-  - Swagger UI: http://localhost:8082/swagger-ui.html
+  - URL: http://localhost:9082
+  - Swagger UI: http://localhost:9082/swagger-ui.html
 
 ### Databases
 
